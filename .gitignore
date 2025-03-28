@@ -1,0 +1,16 @@
+# Ignore IntelliJ IDEA settings
+.idea/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore build and output directories
+out/
+target/
+
+# Ignore log files
+*.log
+
+# Ignore dependency directories (if using Maven/Gradle)
+/target/
+/build/
